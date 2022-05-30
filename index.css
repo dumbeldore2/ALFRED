@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url("images/blur_back.png");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 100vh; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
+
+
+.material-icons.md-90 { 
+    font-size: 90px; 
+}
+
+.lock {
+    margin: auto;
+    width: 90px;
+    padding-top: 15%;
+}
+
+.zin {
+    font-size: 2em;
+    text-align: center;
+    padding-top: 2.5%;
+}
